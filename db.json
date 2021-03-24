@@ -20,73 +20,59 @@
   "news": [
     {
       "id": 1,
-      "title": 'Trump Tested for Coronavirus, U.S. Death Toll Hits 50',
-      "img":
-        'https://images.wsj.net/im-163311?width=1280&size=1',
-      "time": 'March 24, 2021, at 5:09 p.m.',
-      "media": 'U.S. News',
-      "description":
-        `THE U.S. CORONAVIRUS death toll climbed to 50 on Saturday as President Donald Trump confirmed he was broadening America's virus-related travel restrictions with Europe and that he himself had been tested for COVID-19. During a wide-ranging news conference on Saturday afternoon, Trump confirmed he was adding the U.K. and Ireland to a list of travel-restricted countries that spans China, Iran and much of Europe. White House officials have suggested the travel restrictions will minimize coronavirus spread in the U.S. "If you don't have to travel, I wouldn't do it," Trump said, also acknowledging that conversations are ongoing about possibly restricting domestic travel within the U.S.`,
+      "title": "Trump Tested for Coronavirus, U.S. Death Toll Hits 50",
+      "img": "https://images.wsj.net/im-163311?width=1280&size=1",
+      "time": "March 24, 2021, at 5:09 p.m.",
+      "media": "U.S. News",
+      "description": "THE U.S. CORONAVIRUS death toll climbed to 50 on Saturday as President Donald Trump confirmed he was broadening America's virus-related travel restrictions with Europe and that he himself had been tested for COVID-19. During a wide-ranging news conference on Saturday afternoon, Trump confirmed he was adding the U.K. and Ireland to a list of travel-restricted countries that spans China, Iran and much of Europe. White House officials have suggested the travel restrictions will minimize coronavirus spread in the U.S. 'If you don't have to travel, I wouldn't do it,' Trump said, also acknowledging that conversations are ongoing about possibly restricting domestic travel within the U.S.",
     },
     {
       "id": 2,
       "title": "New COVID-19 cases down in California",
-      "img":
-        'https://www.gannett-cdn.com/-mm-/eb34b9888702cb3f4641b6ee49362a859a5dfd45/c=0-0-2309-1299/local/-/media/2021/03/05/USATODAY/usatsports/MotleyFool-TMOT-2a75ed0d-coronavirus-dna.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp',
-      "time": 'March 14, 2021, at 9:19 p.m.',
-      "media": 'U.S. TODAY',
-      "description":
-        "The Golden State reported far fewer coronavirus cases in the week ending Sunday, adding 17,640 new cases. That's down 25.9% from the previous week's toll of 23,813 new cases.",
+      "img": "https://www.gannett-cdn.com/-mm-/eb34b9888702cb3f4641b6ee49362a859a5dfd45/c=0-0-2309-1299/local/-/media/2021/03/05/USATODAY/usatsports/MotleyFool-TMOT-2a75ed0d-coronavirus-dna.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp",
+      "time": "March 14, 2021, at 9:19 p.m.",
+      "media": "U.S. TODAY",
+      "description": "The Golden State reported far fewer coronavirus cases in the week ending Sunday, adding 17,640 new cases. That's down 25.9% from the previous week's toll of 23,813 new cases.",
     },
     {
       "id": 3,
-      "title": 'AstraZeneca results may have included outdated info',
-      "img":
-        'https://www.gannett-cdn.com/presto/2021/03/23/USAT/2accee95-74ab-4fd6-a92e-263c1a8a1a76-AP_Virus_Outbreak_Germany_Vaccines.jpg?width=660&height=440&fit=crop&format=pjpg&auto=webp',
-      "time": 'March 23, 2021, at 3:42 a.m.',
-      "media": 'U.S. TODAY',
-      "description":
-        "Hours after COVID-19 vaccine collaborators AstraZeneca and Oxford University released data on their large clinical trial, federal officials said that information may have been missing a month's worth of data.",
+      "title": "AstraZeneca results may have included outdated info",
+      "img": "https://www.gannett-cdn.com/presto/2021/03/23/USAT/2accee95-74ab-4fd6-a92e-263c1a8a1a76-AP_Virus_Outbreak_Germany_Vaccines.jpg?width=660&height=440&fit=crop&format=pjpg&auto=webp",
+      "time": "March 23, 2021, at 3:42 a.m.",
+      "media": "U.S. TODAY",
+      "description": "Hours after COVID-19 vaccine collaborators AstraZeneca and Oxford University released data on their large clinical trial, federal officials said that information may have been missing a month's worth of data.",
     },
     {
       "id": 4,
-      "title": 'Decade of The Woman',
-      "img":
-        'https://www.gannett-cdn.com/presto/2021/03/22/USAT/018e2e64-55dd-42a7-ad97-1a71d17f6a36-JemeleChapterHead.png?width=1488',
+      "title": "Decade of The Woman",
+      "img": "https://www.gannett-cdn.com/presto/2021/03/22/USAT/018e2e64-55dd-42a7-ad97-1a71d17f6a36-JemeleChapterHead.png?width=1488",
       "time": "March 23, 2021, at 12:2 p.m.",
-      "media": 'U.S. TODAY',
-      "description":
-        "Lynn is an agent and attorney and in 2019 she became only the third woman, and the first Black woman, to represent a top-three NFL draft pick when University of Alabama defensive lineman Quinnen Williams was picked third by the New York Jets. Lynn represents NFL players, football coaches, professional softball players, broadcasters and entertainers.",
+      "media": "U.S. TODAY",
+      "description": "Lynn is an agent and attorney and in 2019 she became only the third woman, and the first Black woman, to represent a top-three NFL draft pick when University of Alabama defensive lineman Quinnen Williams was picked third by the New York Jets. Lynn represents NFL players, football coaches, professional softball players, broadcasters and entertainers.",
     },
     {
       "id": 5,
-      "title": 'Bobby Brown Jr. death caused alcohol, cocaine and fentanyl',
-      "img":
-        'https://www.gannett-cdn.com/presto/2020/11/19/USAT/ecbe0aab-ee7f-4ac0-b54b-b95a0438ecca-GettyImages-1025341498A.JPG?width=660&height=440&fit=crop&format=pjpg&auto=webp',
+      "title": "Bobby Brown Jr. death caused alcohol, cocaine and fentanyl",
+      "img": "https://www.gannett-cdn.com/presto/2020/11/19/USAT/ecbe0aab-ee7f-4ac0-b54b-b95a0438ecca-GettyImages-1025341498A.JPG?width=660&height=440&fit=crop&format=pjpg&auto=webp",
       "time": "March 23, 2021, at 10:20 a.m.",
-      "media": 'U.S. TODAY',
-      "description":
-        "Bobby Brown Jr., the son of singer Bobby Brown, died from the combined effects of alcohol, cocaine and the powerful opioid fentanyl, an autopsy report released Monday said. ",
+      "media": "U.S. TODAY",
+      "description": "Bobby Brown Jr., the son of singer Bobby Brown, died from the combined effects of alcohol, cocaine and the powerful opioid fentanyl, an autopsy report released Monday said. ",
     },
     {
       "id": 6,
-      "title": 'Florida State baseball returns to USA Today',
-      "img":
-        'https://www.gannett-cdn.com/presto/2021/03/06/PTAL/6468cad0-b49d-480e-a398-b47cdcaadf16-Messick_2_1.JPG?crop=2047,1152,x0,y0&width=660&height=372&format=pjpg&auto=webp',
+      "title": "Florida State baseball returns to USA Today",
+      "img": "https://www.gannett-cdn.com/presto/2021/03/06/PTAL/6468cad0-b49d-480e-a398-b47cdcaadf16-Messick_2_1.JPG?crop=2047,1152,x0,y0&width=660&height=372&format=pjpg&auto=webp",
       "time": "March 23, 2021, at 2:41 p.m.",
-      "media": 'U.S. TODAY',
-      "description":
-        "This week, the Seminoles check-in at No. 21 after a perfect week against No. 5 Florida and a three-game sweep at then-No. 6 Miami. FSU is now 10-6 on the season and 7-5 in ACC play. ",
+      "media": "U.S. TODAY",
+      "description": "This week, the Seminoles check-in at No. 21 after a perfect week against No. 5 Florida and a three-game sweep at then-No. 6 Miami. FSU is now 10-6 on the season and 7-5 in ACC play. ",
     },
     {
       "id": 7,
-      "title": 'Maryland at Alabama NCAA Tournament',
-      "img":
-        'https://sportsbookwire.usatoday.com/wp-content/uploads/sites/16/2021/02/USATSI_15486348.jpg?w=1000&h=600&crop=1',
+      "title": "Maryland at Alabama NCAA Tournament",
+      "img": "https://sportsbookwire.usatoday.com/wp-content/uploads/sites/16/2021/02/USATSI_15486348.jpg?w=1000&h=600&crop=1",
       "time": "March 24, 2021, at 2:45 p.m.",
-      "media": 'U.S. TODAY',
-      "description":
-        "The No. 2 seed Alabama Crimson Tide (24-6) will compete with the No. 10 seed Maryland Terrapins (16-13) on Monday with a spot in the Sweet 16 of the NCAA Tournament up for grabs. Alabama is a 6-point favorite to take a step forward in the bracket, which begins at 8:45 PM ET on TNT.",
+      "media": "U.S. TODAY",
+      "description": "The No. 2 seed Alabama Crimson Tide (24-6) will compete with the No. 10 seed Maryland Terrapins (16-13) on Monday with a spot in the Sweet 16 of the NCAA Tournament up for grabs. Alabama is a 6-point favorite to take a step forward in the bracket, which begins at 8:45 PM ET on TNT.",
     }
   ],
   "categories": [
